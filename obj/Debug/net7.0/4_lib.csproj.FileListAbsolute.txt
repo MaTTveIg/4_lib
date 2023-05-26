@@ -1,0 +1,16 @@
+C:\Users\matve\OneDrive\Рабочий стол\project\4_lib\bin\Debug\net7.0\4_lib.exe
+C:\Users\matve\OneDrive\Рабочий стол\project\4_lib\bin\Debug\net7.0\4_lib.deps.json
+C:\Users\matve\OneDrive\Рабочий стол\project\4_lib\bin\Debug\net7.0\4_lib.runtimeconfig.json
+C:\Users\matve\OneDrive\Рабочий стол\project\4_lib\bin\Debug\net7.0\4_lib.dll
+C:\Users\matve\OneDrive\Рабочий стол\project\4_lib\bin\Debug\net7.0\4_lib.pdb
+C:\Users\matve\OneDrive\Рабочий стол\project\4_lib\obj\Debug\net7.0\4_lib.csproj.AssemblyReference.cache
+C:\Users\matve\OneDrive\Рабочий стол\project\4_lib\obj\Debug\net7.0\4_lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\OneDrive\Рабочий стол\project\4_lib\obj\Debug\net7.0\4_lib.AssemblyInfoInputs.cache
+C:\Users\matve\OneDrive\Рабочий стол\project\4_lib\obj\Debug\net7.0\4_lib.AssemblyInfo.cs
+C:\Users\matve\OneDrive\Рабочий стол\project\4_lib\obj\Debug\net7.0\4_lib.csproj.CoreCompileInputs.cache
+C:\Users\matve\OneDrive\Рабочий стол\project\4_lib\obj\Debug\net7.0\4_lib.dll
+C:\Users\matve\OneDrive\Рабочий стол\project\4_lib\obj\Debug\net7.0\refint\4_lib.dll
+C:\Users\matve\OneDrive\Рабочий стол\project\4_lib\obj\Debug\net7.0\4_lib.pdb
+C:\Users\matve\OneDrive\Рабочий стол\project\4_lib\obj\Debug\net7.0\4_lib.genruntimeconfig.cache
+C:\Users\matve\OneDrive\Рабочий стол\project\4_lib\obj\Debug\net7.0\ref\4_lib.dll
+C:\Users\matve\OneDrive\Рабочий стол\project\4_lib\obj\Debug\net7.0\4_lib.csproj.CopyComplete
